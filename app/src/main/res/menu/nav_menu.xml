@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navYoutube"
+        android:title="@string/youtube"
+        android:icon="@drawable/youtube_image" />
+    <item android:id="@+id/navUrl"
+        android:title="@string/play_online"
+        android:icon="@drawable/link_image_raw"/>
+    <item android:id="@+id/themesNav"
+        android:title="@string/themes"
+        android:icon="@drawable/theme_image"/>
+    <item android:id="@+id/sortOrderNav"
+        android:title="@string/sort_order"
+        android:icon="@drawable/sort_order_image"/>
+    <item android:id="@+id/aboutNav"
+        android:title="@string/about"
+        android:icon="@drawable/about_image"/>
+    <item android:id="@+id/exitNav"
+        android:title="@string/exit"
+        android:icon="@drawable/exit_image"/>
+</menu>
